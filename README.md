@@ -8,7 +8,7 @@
 - Swagger
 
 
-База данных инициализируется при запуске приложения через **LiquiBase**, скрипты лежат в папке resources/db.changelog. Параметры подкючения к БД лежат в файле application.properties в папке resources
+База данных инициализируется при запуске приложения через **LiquiBase**, скрипты лежат в папке **resources/db.changelog**. Параметры подключения к БД лежат в файле **application.properties** в папке **resources**
 
 
 Для маппинга используется **MyBatis**
